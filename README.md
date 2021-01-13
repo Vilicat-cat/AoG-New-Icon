@@ -1,5 +1,5 @@
 # AoG-New-Icon
- New icon and little tweaks on interface on AoGopenGPS 
+ New icon and little tweaks on interface on AgOpenGPS 4.3.10
  
 AgOpenGPS **** Guidance software
 Most stable release here: https://github.com/farmerbriantee/AgOpenGPS/releases
